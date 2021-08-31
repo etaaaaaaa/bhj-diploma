@@ -50,6 +50,12 @@
       "email": "Alexandra.Maltseva@b-tu.de",
       "password": "ss",
       "id": "99vtzb7fks0t7yhc"
+    },
+    {
+      "name": "oooo",
+      "email": "iiii@ggg",
+      "password": "3468",
+      "id": "175dczkt00eg2l"
     }
   ],
   "accounts": [
@@ -87,6 +93,31 @@
       "name": "mhuih",
       "user_id": "99vtzb7fks0t7yhc",
       "id": "99vtzb8hks0tc36b"
+    },
+    {
+      "name": "jjj",
+      "user_id": "175dczkt00eg2l",
+      "id": "175ddgkt00eww1"
+    },
+    {
+      "name": "xc",
+      "user_id": "175dczkt00eg2l",
+      "id": "175ddpkt00hi1z"
+    },
+    {
+      "name": "kjhhhh",
+      "user_id": "175dczkt00eg2l",
+      "id": "175de2kt00shli"
+    },
+    {
+      "name": "skjdfn",
+      "user_id": "175dczkt00eg2l",
+      "id": "175debkt00xf18"
+    },
+    {
+      "name": "fggg",
+      "user_id": "175dczkt00eg2l",
+      "id": "175dg8kt014sgh"
     }
   ],
   "transactions": [
@@ -224,6 +255,15 @@
       "sum": 300000,
       "type": "expense",
       "user_id": "1"
+    },
+    {
+      "id": "175deokt00yxti",
+      "type": "income",
+      "name": "kook",
+      "sum": 67,
+      "account_id": "175ddgkt00eww1",
+      "user_id": "175dczkt00eg2l",
+      "created_at": "2021-08-31T12:06:39.797Z"
     }
   ]
 }
